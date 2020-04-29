@@ -4,8 +4,9 @@
 <img src="https://github.com/sahuved/snake-game-using-js/blob/master/img/screen.PNG">
 <h4>This game is using dice for thr real feel</h4>
 <img src="https://github.com/sahuved/snake-game-using-js/blob/master/img/screen1.PNG">
-<h4></h4>
+<h4>Rules page is here</h4>
 <img src="https://github.com/sahuved/snake-game-using-js/blob/master/img/screen2.PNG">
+<h4>Win page</h4>
 <img src="https://github.com/sahuved/snake-game-using-js/blob/master/img/screen3.PNG">
 
 
